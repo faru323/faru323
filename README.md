@@ -1,17 +1,17 @@
 <i>
   <em>
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">A passionate Backend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 I am Junior Developer and try to learn new something.I want to improve myself.
     
     
-- 👽 Game development/Backend is my field of interest.
+- 👽 Game development/Frontend is my field of interest.
 
 
 - 👀 I’m interested in C#,JavaScript
 
 
-- 🌱 I’m currently learning C#,JavaScript,C++,Python
+- 🌱 I’m currently learning C#,JavaScript,Html,Css
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
