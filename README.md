@@ -1,7 +1,7 @@
 <i>
   <em>
 <h1 align="center">Hi 👋, I'm Fatima</h1>
-<h3 align="center">A passionate Backend developer from Azerbaijan</h3>
+<h3 align="center">A passionate Frontend developer from Azerbaijan</h3>
 I am Junior Developer and try to learn new something.I want to improve myself.
     
     
