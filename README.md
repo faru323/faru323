@@ -5,7 +5,7 @@
 I am Junior Developer and try to learn new something.I want to improve myself.
     
     
-- 👽 Game development/Backend is my field of interest.
+- 👽 Game development/Frontend is my field of interest.
 
 
 - 👀 I’m interested in C#,JavaScript
